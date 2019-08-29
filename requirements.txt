@@ -1,0 +1,4 @@
+requests
+seleniumwrapper
+pytest
+pendulum
